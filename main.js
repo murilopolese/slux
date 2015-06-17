@@ -35,6 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	win.on( 'close', function() {
 		win.hide();
+		visible = false;
 		return true;
 	})
 });
