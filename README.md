@@ -3,6 +3,10 @@
 
 Slack for linux written on [NW.js](http://nwjs.io/). The app is just an iframed version of http://slack.com. Due to restrictions from Slack, you must click a "Go to Slack.com" link on startup.
 
+## How to run?
+
+https://github.com/nwjs/nw.js/wiki/How-to-run-apps
+
 ## Features
 
 - Avoid close window: hide to tray
